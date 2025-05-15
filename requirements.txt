@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+easyocr
+numpy>=1.26.0
+Pillow
+opencv-python
+pytesseract
